@@ -8,7 +8,6 @@ click-didyoumean==0.3.0
 click-plugins==1.1.1
 click-repl==0.3.0
 cron-descriptor==1.4.0
-diploma-frontend @ file:///Users/sergeygoriachev/python_django_diploma/diploma-frontend/dist/diploma-frontend-0.6.tar.gz#sha256=cd39038ff3bdb8ae784e7124106f1b9afdb14e1fa37414afe671d72fbdd72d09
 Django==4.2.3
 django-celery-beat==2.5.0
 django-request-logging==0.7.5
