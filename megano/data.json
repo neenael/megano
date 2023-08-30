@@ -1,0 +1,3356 @@
+[
+  {
+    "model": "api_app.image",
+    "pk": 1,
+    "fields": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/391px-Apple_logo_black.svg.png",
+      "alt": "apple logo"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 2,
+    "fields": {
+      "src": "https://appleprostore.ru/wp-content/uploads/2022/09/apple-iphone-14-pro-max-deep-purple-1.jpg",
+      "alt": "iphone 14pm"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 3,
+    "fields": {
+      "src": "https://msk-apple.ru/image/cache/catalog/Add/14%20pro%20max/14promaxw-700x700.jpg",
+      "alt": "iphone 14pm"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 4,
+    "fields": {
+      "src": "/media/uploads/Снимок экрана 2023-07-02 в 16.35.46.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 5,
+    "fields": {
+      "src": "/media/uploads/Снимок экрана 2023-07-02 в 16.35.46_mScVaDp.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 6,
+    "fields": {
+      "src": "/media/uploads/avatars/1/Снимок экрана 2023-07-02 в 16.35.46.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 7,
+    "fields": {
+      "src": "/media/uploads/avatars/1/10Монтажная область 1.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 8,
+    "fields": {
+      "src": "/media/uploads/avatars/1/Снимок экрана 2023-07-02 в 16.35.46_SNwLVtl.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 9,
+    "fields": {
+      "src": "/media/uploads/avatars/1/models.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 10,
+    "fields": {
+      "src": "/media/uploads/avatars/1/Снимок экрана 2023-07-02 в 13.40.37.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 11,
+    "fields": {
+      "src": "/media/uploads/avatars/1/fT736VQkVixBBDbCy4sWEAySQ5c_-FSX78gxQ0Q-tj9snl9iqc6wHCggfuzDgvbqnTn2hJnhDbM08Nnu1VGU36Db.jpg",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 12,
+    "fields": {
+      "src": "/media/uploads/avatars/1/fT736VQkVixBBDbCy4sWEAySQ5c_-FSX78gxQ0Q-tj9snl9iqc6wHCggfuzDgvbqnTn2hJnhDbM08Nnu1VGU36Db_A5bCWIx.jpg",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 13,
+    "fields": {
+      "src": "/media/uploads/avatars/7/fT736VQkVixBBDbCy4sWEAySQ5c_-FSX78gxQ0Q-tj9snl9iqc6wHCggfuzDgvbqnTn2hJnhDbM08Nnu1VGU36Db.jpg",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 14,
+    "fields": {
+      "src": "/media/uploads/avatars/7/1.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 15,
+    "fields": {
+      "src": "/media/uploads/avatars/7/199B4D4C-69E7-437B-B591-FE5A10090757.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 16,
+    "fields": {
+      "src": "/media/uploads/avatars/7/1D188376-5822-4708-8608-E320C325C8C7.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 17,
+    "fields": {
+      "src": "/media/uploads/avatars/7/Снимок экрана 2023-04-29 в 15.49.53.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 18,
+    "fields": {
+      "src": "/media/uploads/avatars/7/Снимок экрана 2023-07-02 в 13.40.37.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 19,
+    "fields": {
+      "src": "/media/avatars/7/models.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 20,
+    "fields": {
+      "src": "/media/avatars/7/models_LpwCMl9.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 21,
+    "fields": {
+      "src": "/media/avatars/1/Снимок экрана 2023-07-02 в 13.40.37.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 22,
+    "fields": {
+      "src": "/media/avatars/1/Снимок экрана 2023-07-02 в 13.40.37_bMlPWN0.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 23,
+    "fields": {
+      "src": "https://apple-com.ru/image/cache/catalog/product/iphone%2012/b335d919c03716a72dfc8dcef728568c-800x700h.jpg.webp",
+      "alt": "iphone 12"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 24,
+    "fields": {
+      "src": "https://applegod.ru/wp-content/uploads/2021/07/iphone-12-blue-select-2020.png",
+      "alt": "iphone 12"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 25,
+    "fields": {
+      "src": "https://allohastore.ru/image/catalog/statyi/nCLvAtSHdMfMBHUtmu6TCf.jpg",
+      "alt": "iphone 12"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 26,
+    "fields": {
+      "src": "https://apple-com.ru/image/cache/catalog/product/iPhone%2011/iphone_11_p_2-800x700h.jpg.webp",
+      "alt": "iphone 11"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 27,
+    "fields": {
+      "src": "https://airoom.ru/wp-content/uploads/2019/09/iphone11.jpg",
+      "alt": "iphone 11"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 28,
+    "fields": {
+      "src": "https://ipixel.ru/upload/iblock/a71/a71etet52k7lxkvwfa9lu2fq5at4i3aw.jpg",
+      "alt": "iphone 14"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 29,
+    "fields": {
+      "src": "https://thumbs.dreamstime.com/z/%D0%BA%D0%BE%D1%82-%D1%81-%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%BC-%D1%84%D0%BB%D0%B0%D0%B3%D0%BE%D0%BC-120528181.jpg",
+      "alt": "пусто"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 30,
+    "fields": {
+      "src": "/media/avatars/1/Снимок экрана 2023-07-09 в 18.59.32.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 31,
+    "fields": {
+      "src": "/media/avatars/1/Снимок экрана 2023-07-09 в 18.59.32_qYi6LoF.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 32,
+    "fields": {
+      "src": "/media/avatars/1/Снимок экрана 2023-07-09 в 18.59.32_MNLNuya.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 33,
+    "fields": {
+      "src": "/uploads/avatars/1/Снимок экрана 2023-07-09 в 18.59.32_Kbuj6aI.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 34,
+    "fields": {
+      "src": "/uploads/avatars/1/F3E0FEAD-9DF5-4979-B710-E0B6A1DFB26F.jpg",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 35,
+    "fields": {
+      "src": "/uploads/avatars/1/Без названия43_20230525221309.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 36,
+    "fields": {
+      "src": "/uploads/avatars/1/199B4D4C-69E7-437B-B591-FE5A10090757.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 37,
+    "fields": {
+      "src": "/uploads/avatars/1/7CA3735C-4E43-4FB2-8299-5052CCF1F351.jpg",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 38,
+    "fields": {
+      "src": "/uploads/avatars/1/IMG_6851.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 39,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-14_16-11-57.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 40,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-14_15-59-13.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 41,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-13_14-34-54.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 42,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-13_14-34-54_Xj4B9S4.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 43,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-13_14-34-54_x3bTOnH.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 44,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-14_15-59-13_kVARPaz.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 45,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-13_14-34-54.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 46,
+    "fields": {
+      "src": "/uploads/avatars/1/image_2023-07-13_14-34-54_NBMxSRU.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 47,
+    "fields": {
+      "src": "/uploads/avatars/1/947B5433-D9C9-46A7-A75B-074E15A7BFF3.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 48,
+    "fields": {
+      "src": "/uploads/avatars/1/5320a1d79f9010af3000a763.jpg",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 49,
+    "fields": {
+      "src": "/uploads/avatars/1/Без названия43_20230525221309.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 50,
+    "fields": {
+      "src": "/uploads/avatars/None/IMG_6851.PNG",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 51,
+    "fields": {
+      "src": "/uploads/avatars/8/5320a1d79f9010af3000a763.jpg",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 52,
+    "fields": {
+      "src": "/uploads/avatars/8/image_2023-07-14_15-59-13.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 53,
+    "fields": {
+      "src": "/uploads/avatars/8/image_2023-07-14_16-11-57.png",
+      "alt": "avatar"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 54,
+    "fields": {
+      "src": "/uploads/uploads/categories_img/phones.png",
+      "alt": "Иконка для категории: Телефоны"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 55,
+    "fields": {
+      "src": "/uploads/uploads/categories_img/herd.png",
+      "alt": "Иконка для категории: Печи"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 56,
+    "fields": {
+      "src": "/uploads/uploads/categories_img/fridge.png",
+      "alt": "Иконка для категории: Холодильники"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 57,
+    "fields": {
+      "src": "/uploads/uploads/categories_img/acs.png",
+      "alt": "Иконка для категории: Аксессуары"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 58,
+    "fields": {
+      "src": "https://img.mvideo.ru/Pdb/20083685b.jpg",
+      "alt": "Электрическая плита (50-55 см) Gorenje GEC5C40XC"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 61,
+    "fields": {
+      "src": "https://avatars.mds.yandex.net/get-mpic/5346941/img_id457124801059409864.jpeg/orig",
+      "alt": "Газовая плита (60 см) Gefest CG 60MC6"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 62,
+    "fields": {
+      "src": "https://ir.ozone.ru/s3/multimedia-t/c1000/6691194461.jpg",
+      "alt": "Электрическая плита (50-55 см) Darina PL EC241 616 1S"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 63,
+    "fields": {
+      "src": "https://iphonesource.ru/wp-content/uploads/2014/05/iPhone-5S-gold-1024x892.jpg",
+      "alt": "iphone 5s"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 64,
+    "fields": {
+      "src": "https://img.mvideo.ru/Pdb/50171822b.jpg",
+      "alt": "Apple AirPods Max 1"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 65,
+    "fields": {
+      "src": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-5/40/69/15/12/12/8/100027722261b0.jpg",
+      "alt": "Apple AirPods Max 2"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 66,
+    "fields": {
+      "src": "https://img.mvideo.ru/Pdb/small_pic/480/30065097b.jpg",
+      "alt": "Samsung Galaxy Z Fold5"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 67,
+    "fields": {
+      "src": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-43/441/898/631/936/100028089026b0.jpg",
+      "alt": "Холодильник Samsung RB33A3240WW"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 68,
+    "fields": {
+      "src": "https://d15v10x8t3bz3x.cloudfront.net/Immagini/2020/5/15907696/640-1_34004286_15_02_o_ccrn%206200w-M.jpg",
+      "alt": "Холодильник Candy CCRN 6200W"
+    }
+  },
+  {
+    "model": "api_app.image",
+    "pk": 69,
+    "fields": {
+      "src": "https://img.mvideo.ru/Pdb/50173552b.jpg",
+      "alt": "Чехол защитный vlp Gloss case MagSafe для iPhone 14 Pro прозрачный"
+    }
+  },
+  {
+    "model": "api_app.category",
+    "pk": 3,
+    "fields": {
+      "title": "Телефоны",
+      "image": 54
+    }
+  },
+  {
+    "model": "api_app.category",
+    "pk": 4,
+    "fields": {
+      "title": "Холодильники",
+      "image": 56
+    }
+  },
+  {
+    "model": "api_app.category",
+    "pk": 5,
+    "fields": {
+      "title": "Печи",
+      "image": 55
+    }
+  },
+  {
+    "model": "api_app.category",
+    "pk": 6,
+    "fields": {
+      "title": "Аксессуары",
+      "image": 57
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 1,
+    "fields": {
+      "category": 3,
+      "title": "Смартфон Apple iPhone 14 Pro Max 128GB eSim",
+      "price": "999.00",
+      "count": 999,
+      "date": "2023-07-08T13:36:22.367Z",
+      "description": "iPhone 14 Pro Max",
+      "fullDescription": "iPhone 14 Pro Max — смартфон в корпусе цвета Deep Purple, выполненном из нержавеющей стали и противоударного стекла Ceramic Shield, обладает встроенной памятью 128 Гб. Благодаря классу защиты от воды и пыли IP68 устройство не пострадает при погружении на глубину до 6 м. Экран типа Super Retina XDR Pro Motion диагональю 6,7 дюйма сделан по технологии OLED.\r\nЭта модель оборудована тремя основными и одной фронтальной камерой. Основной объектив защищен от повреждений сапфировым стеклом. Модули позволяют записывать видео в качестве 4К, фотографировать с 15-кратным приближением и двукратным удалением. Питание обеспечивает",
+      "freeDelivery": false,
+      "rating": 4.8,
+      "is_limited": true,
+      "sold": 1,
+      "images": [
+        2,
+        3
+      ],
+      "tags": [
+        1,
+        4,
+        5,
+        8
+      ],
+      "reviews": [],
+      "specifications": [
+        8,
+        10,
+        11,
+        12
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 2,
+    "fields": {
+      "category": 3,
+      "title": "iPhone 12",
+      "price": "790.00",
+      "count": 192,
+      "date": "2023-07-09T15:40:33.144Z",
+      "description": "iPhone 12. Во-первых, это быстро.",
+      "fullDescription": "iPhone 12 поражает возможностями. Чип A14 Bionic. Передовая система двух камер. И великолепный дисплей Super Retina XDR, на котором видно каждую деталь.",
+      "freeDelivery": false,
+      "rating": 5.0,
+      "is_limited": false,
+      "sold": 8,
+      "images": [
+        23,
+        24,
+        25
+      ],
+      "tags": [
+        1,
+        5,
+        8
+      ],
+      "reviews": [],
+      "specifications": [
+        10,
+        11,
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 3,
+    "fields": {
+      "category": 3,
+      "title": "iPhone 11",
+      "price": "690.00",
+      "count": 955,
+      "date": "2023-07-09T15:44:06.648Z",
+      "description": "iphone 11",
+      "fullDescription": "iphone 11",
+      "freeDelivery": false,
+      "rating": 5.0,
+      "is_limited": false,
+      "sold": 245,
+      "images": [
+        26,
+        27
+      ],
+      "tags": [
+        1,
+        5,
+        8
+      ],
+      "reviews": [],
+      "specifications": [
+        1,
+        10,
+        11,
+        13,
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 4,
+    "fields": {
+      "category": 3,
+      "title": "iPhone 13",
+      "price": "950.00",
+      "count": 562,
+      "date": "2023-07-09T15:46:34.158Z",
+      "description": "iPhone 13. Сильный мира всего.",
+      "fullDescription": "iPhone 13. Самая совершенная система двух камер на iPhone. Режим «Киноэффект» делает из видео настоящее кино. Супербыстрый чип A15 Bionic. Неутомимый аккумулятор. Прочный корпус. И ещё более яркий дисплей Super Retina XDR.",
+      "freeDelivery": false,
+      "rating": 4.0,
+      "is_limited": false,
+      "sold": 4,
+      "images": [
+        28
+      ],
+      "tags": [
+        1,
+        5,
+        8
+      ],
+      "reviews": [],
+      "specifications": [
+        9,
+        10,
+        11,
+        14,
+        15
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 9,
+    "fields": {
+      "category": 5,
+      "title": "Электрическая плита (50-55 см) Gorenje GEC5C40XC",
+      "price": "400.00",
+      "count": 30,
+      "date": "2023-08-17T18:16:06.265Z",
+      "description": "Электрическая плита Gorenje GEC5C40XC",
+      "fullDescription": "Электрическая плита Gorenje GEC5C40XC представлена в цвете нержавеющей стали. Варочная поверхность выполнена из стеклокерамики и оснащена четырьмя конфорками диаметром от 14,5 см до 18 см. Предусмотрена расширенная зона нагрева для использования объемной посуды. Индикаторы остаточного тепла дают возможность доводить пищу до готовности в выключенном состоянии. В нижней части корпуса расположен выдвижной ящик для хранения посуды.\r\nДуховой шкаф объемом 70 л оснащен дверцей из двухслойного стекла. Он оборудован девятью режимами работы, в числе которых есть конвекция. Реализована возможность очистки внутренней поверхности паром. Температура во время готовки может достигать 275°С.\r\nВстроенный цифровой дисплей отображает все основные параметры. Управление производится при помощи поворотных переключателей и сенсорных кнопок. Плита комплектуется глубоким и плоским противнями, металлической решеткой.",
+      "freeDelivery": false,
+      "rating": 0.0,
+      "is_limited": false,
+      "sold": 0,
+      "images": [
+        58
+      ],
+      "tags": [
+        1,
+        4
+      ],
+      "reviews": [],
+      "specifications": [
+        16,
+        17,
+        18
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 10,
+    "fields": {
+      "category": 5,
+      "title": "Газовая плита (60 см) Gefest CG 60MC6",
+      "price": "350.00",
+      "count": 200,
+      "date": "2023-08-17T18:19:37.452Z",
+      "description": "Газовая плита Gefest CG 60MC6 оснащена вместительной духовкой, которая может использоваться для приготовления крупных блюд - например, для запекания гуся или индейки целиком. Вместе с ней поставляется решётка и противень, необходимый для готовки.",
+      "fullDescription": "Газовая плита Gefest CG 60MC6 оснащена вместительной духовкой, которая может использоваться для приготовления крупных блюд - например, для запекания гуся или индейки целиком. Вместе с ней поставляется решётка и противень, необходимый для готовки.\r\n\r\nБЫСТРЫЙ ЗАПУСК\r\nСистема электрического розжига даёт возможность включить любую конфорку за считанные секунды.\r\n\r\nВЫСОКИЙ УРОВЕНЬ БЕЗОПАСНОСТИ\r\nФункция -Газ-контроль- защищает людей от последствий утечки топлива, автоматически останавливая его подачу при затухании пламени в духовке.\r\n\r\nДОПОЛНИТЕЛЬНАЯ ЗАЩИТА\r\nДвухслойное стекло предотвращает получение человеком ожогов при касании дверцы духовки в процессе приготовления.\r\n\r\nУДОБСТВО ИСПОЛЬЗОВАНИЯ\r\nВ нижней части плиты расположен вместительный выдвижной ящик, который предназначается для хранения крупных предметов кухонной утвари - например, сковород, кастрюль, противней и форм для запекания.",
+      "freeDelivery": false,
+      "rating": 0.0,
+      "is_limited": true,
+      "sold": 0,
+      "images": [
+        61
+      ],
+      "tags": [
+        1
+      ],
+      "reviews": [],
+      "specifications": [
+        19,
+        20
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 11,
+    "fields": {
+      "category": 5,
+      "title": "Электрическая плита (50-55 см) Darina PL EC241 616 1S",
+      "price": "450.00",
+      "count": 500,
+      "date": "2023-08-17T18:23:32.145Z",
+      "description": "Электрическая плита (50-55 см) Darina PL EC241 616 1S оборудована индикатором, показывающим остаточное тепло варочной панели и духового шкафа. Снизу встроен небольшой выдвижной ящик для хранения посуды. Устройство оснащено четырьмя конфорками спирального типа. Верхняя рабочая поверхность выполнена из стеклокерамики, легко поддающейся чистке. Показатель потребляемой мощности плиты не превышает 6100 Вт.",
+      "fullDescription": "Объем духовки составляет 50 л. Внутри нанесено эмалированное покрытие. Температура нагрева достигает 250°С. Доступна работа в режиме конвекции и гриля. Встроена подсветка. Электронные часы с таймером позволяют установить время готовки блюда, по истечении которого устройство издает звуковой сигнал и отключается автоматически. Управление температурой в камере осуществляется при помощи поворотного терморегулятора.",
+      "freeDelivery": true,
+      "rating": 0.0,
+      "is_limited": false,
+      "sold": 0,
+      "images": [
+        62
+      ],
+      "tags": [
+        1
+      ],
+      "reviews": [],
+      "specifications": [
+        10,
+        11,
+        16,
+        19
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 12,
+    "fields": {
+      "category": 3,
+      "title": "iPhone 5",
+      "price": "200.00",
+      "count": 0,
+      "date": "2023-08-17T18:34:12.701Z",
+      "description": "смартфон компании Apple, представляет шестое поколение iPhone.",
+      "fullDescription": "смартфон компании Apple, представляет шестое поколение iPhone.",
+      "freeDelivery": false,
+      "rating": 0.0,
+      "is_limited": false,
+      "sold": 0,
+      "images": [
+        63
+      ],
+      "tags": [
+        1,
+        5,
+        8
+      ],
+      "reviews": [],
+      "specifications": [
+        10,
+        11,
+        14
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 13,
+    "fields": {
+      "category": 6,
+      "title": "Наушники полноразмерные Bluetooth Apple AirPods Max Space Gray w/Black Headband (MGYH3)",
+      "price": "800.00",
+      "count": 100,
+      "date": "2023-08-17T18:39:04.932Z",
+      "description": "Такого вы ещё не слышали.",
+      "fullDescription": "AirPods Max полностью меняют представление о полноразмерных наушниках. Драйвер, разработанный Apple, способен воспроизводить звук высокой чёткости. Каждая деталь, от оголовья до амбушюров, разработана для полного комфорта. Передовая функция активного шумоподавления блокирует внешние шумы, а «Прозрачный режим» позволяет слышать окружающий мир.\r\n\r\nОсновные характеристики\r\n• Динамический драйвер, разработанный Apple, способен воспроизводить звук высокой чёткости\r\n• Функция активного шумоподавления блокирует внешние шумы, чтобы вы могли полностью погрузиться в музыку\r\n• Прозрачный режим позволяет слышать окружающий мир\r\n• Технология пространственного аудио с функцией динамического отслеживания движений головы создаёт по‑настоящему живую и объёмную картину звука\r\n• Технологии вычислительного аудио, продуманная акустика, чип H1 и передовое программное обеспечение создают звук потрясающего качества\r\n• Сетчатое оголовье и амбушюры из пеноматериала с эффектом памяти обеспечивают комфорт\r\n• Доступные цвета: серебристый, «серый космос», «голубое небо», зелёный, розовый\r\n• 20 часов музыки, фильмов, разговоров — при использовании активного шумоподавления и пространственного аудио\r\n• Тонкий чехол Smart Case для хранения наушников в режиме сверхнизкого потребления энергии\r\n• Исключительно простая настройка, активация при надевании и мгновенное переключение с одного устройства на другое\r\n• Звук с iPhone, iPad, iPod touch или Apple TV можно передавать сразу на две пары AirPods",
+      "freeDelivery": false,
+      "rating": 0.0,
+      "is_limited": true,
+      "sold": 0,
+      "images": [
+        64,
+        65
+      ],
+      "tags": [
+        1,
+        4,
+        5
+      ],
+      "reviews": [],
+      "specifications": [
+        10,
+        11
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 14,
+    "fields": {
+      "category": 3,
+      "title": "Смартфон Samsung Galaxy Z Fold5 512GB Phantom Black (SM-F946B)",
+      "price": "1200.00",
+      "count": 50,
+      "date": "2023-08-17T18:42:34.311Z",
+      "description": "Смартфон Samsung Galaxy Z Fold5 512GB Phantom Black (SM-F946B)",
+      "fullDescription": "Складной смартфон Samsung Galaxy Z Fold5 Phantom Black (SM-F946B) оснащен 7,6-дюймовым экраном разрешением 2176x1812 пикселей, обладающим пиковой яркостью 1750 нит, что позволит смотреть кино или играть даже под солнечными лучами — изображение не поблекнет. Внешний AMOLED-экран обладает диагональю 6,2 дюйма и разрешением 2316x904 пикселей, он отображает множество актуальной информации и предоставляет к ней быстрый доступ. Оба экрана защищены прочным стеклом Corning Gorilla Glass Victus 2.\r\nВосьмиядерный процессор Qualcomm Snapdragon 8 Gen 2 и 12 Гб оперативной памяти обеспечивают высокую производительность, которая позволит играть в современные игры без малейших подвисаний и работать одновременно в трех приложениях. Панель управления поддерживает до 12 приложений. Перо S Pen упростит управление и позволит быстро перемещать элементы, рисовать, делать заметки, словно обычной ручкой.\r\nОбъем встроенной памяти для установки приложений и хранения личных данных — 512 Гб. Беспроводные технологии представлены встроенными модулями Wi-Fi 802.11 a/b/g/n/ac/ax, Bluetooth 5.0, NFC.\r\nОсновная камера тройная: 50 Мп (широкоугольная), 12 Мп (ультраширокоугольная) и 10 Мп (телеобъектив), максимальное разрешение видеосъемки — 8К (7680x4320 пикселей). Даже в сложных условиях получится качественный результат — доступна оптическая и цифровая стабилизация. Приблизить объект позволит зум 10х. За селфи и общение по видеосвязи отвечают фронтальная камера на 10 Мп и камера на 4 Мп, врезанная в экран. Сканер отпечатка пальца встроен в боковую панель.\r\nАвтономная работа обеспечивает аккумулятором емкостью 4400 мА*ч, он предоставляет до 73 часов прослушивания музыки и до 21 часа просмотра видео. Поддерживается проводная зарядка мощностью 25 Вт, беспроводная — 15 Вт и обратная беспроводная — 4,5 Вт. Размеры в сложенном виде: 154,9x67,1x13,4 мм, в открытом виде: 154,9x129,9x6,1 мм. Вес смартфона — 253 г.",
+      "freeDelivery": false,
+      "rating": 0.0,
+      "is_limited": true,
+      "sold": 0,
+      "images": [
+        66
+      ],
+      "tags": [
+        1,
+        4,
+        6,
+        8
+      ],
+      "reviews": [],
+      "specifications": [
+        10,
+        21,
+        22
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 15,
+    "fields": {
+      "category": 4,
+      "title": "Холодильник Samsung RB33A3240WW",
+      "price": "550.00",
+      "count": 300,
+      "date": "2023-08-17T18:52:52.805Z",
+      "description": "Холодильник Samsung RB33A3240WW обладает объемом 328 л. Работает бесшумно — 37 дБ не помешают даже в ночное время. Управляется электронно, присутствует LED-дисплей. В год потребляется 280 кВт*ч. Материалом для полок послужило закаленное стекло. Морозильная камера расположена снизу и вмещает 98 л. Габариты устройства — 185 х 59,5 х 64,7 см.",
+      "fullDescription": "Холодильник Samsung RB33A3240WW обладает объемом 328 л. Работает бесшумно — 37 дБ не помешают даже в ночное время. Управляется электронно, присутствует LED-дисплей. В год потребляется 280 кВт*ч. Материалом для полок послужило закаленное стекло. Морозильная камера расположена снизу и вмещает 98 л. Габариты устройства — 185 х 59,5 х 64,7 см.",
+      "freeDelivery": true,
+      "rating": 0.0,
+      "is_limited": false,
+      "sold": 0,
+      "images": [
+        67
+      ],
+      "tags": [
+        1,
+        6
+      ],
+      "reviews": [],
+      "specifications": [
+        23
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 16,
+    "fields": {
+      "category": 4,
+      "title": "Холодильник Candy CCRN 6200W",
+      "price": "490.00",
+      "count": 300,
+      "date": "2023-08-17T18:55:25.596Z",
+      "description": "В холодильнике Candy CCRN 6200W стильный дизайн сочетается с современными решениями, обеспечивающими стабильную и эффективную работу. Это и украшение кухни, и прибор, в котором созданы оптимальные условия для хранения продуктов. Использование технологии Skin Condenser позволило расположить решетки радиаторов в боковых стенках корпуса. При этом задняя стенка у CCRN 6200W — плоская, что позволяет разместить холодильник вплотную к стене и избежать скопления пыли из-за отсутствия выступающих частей и решеток.",
+      "fullDescription": "В холодильнике Candy CCRN 6200W стильный дизайн сочетается с современными решениями, обеспечивающими стабильную и эффективную работу. Это и украшение кухни, и прибор, в котором созданы оптимальные условия для хранения продуктов. Использование технологии Skin Condenser позволило расположить решетки радиаторов в боковых стенках корпуса. При этом задняя стенка у CCRN 6200W — плоская, что позволяет разместить холодильник вплотную к стене и избежать скопления пыли из-за отсутствия выступающих частей и решеток.\r\n\r\nTotal No Frost\r\nВ обоих отделениях циркулирует прохладный воздух. Это препятствует появлению наледи на внутренних стенках и способствует равномерному распределению температуры.\r\n\r\nУДОБСТВО\r\nВ основной камере предусмотрено пять прочных стеклянных полки, в морозильнике — три выдвижных ящика из прозрачного пластика. Распределите по ним продукты так, как считаете нужным. Ручки холодильника интегрированы в корпус дверей, направление открытия которых можно изменить при необходимости. Гигиеничный съемный уплотнитель дверей обеспечивает удобство ухода за холодильником.\r\n\r\nПЕРЕДОВЫЕ ТЕХНОЛОГИИ\r\nСистема управления — электронная. Она обеспечивает полный контроль над настройками и позволяет в любой момент включить режим «быстрое охлаждение». LED-освещение помогает с минимальными затратами времени найти то, что вам понадобилось в данный момент, и экономно потребляет при этом электроэнергию.",
+      "freeDelivery": true,
+      "rating": 0.0,
+      "is_limited": false,
+      "sold": 0,
+      "images": [
+        68
+      ],
+      "tags": [
+        1,
+        4
+      ],
+      "reviews": [],
+      "specifications": [
+        23
+      ]
+    }
+  },
+  {
+    "model": "api_app.product",
+    "pk": 17,
+    "fields": {
+      "category": 6,
+      "title": "Чехол защитный vlp Gloss case MagSafe для iPhone 14 Pro прозрачный",
+      "price": "50.00",
+      "count": 200,
+      "date": "2023-08-17T19:00:20.472Z",
+      "description": "Чехол защитный vlp Gloss case MagSafe для iPhone 14 Pro прозрачный",
+      "fullDescription": "Чехол защитный vlp Gloss case MagSafe для iPhone 14 Pro прозрачный",
+      "freeDelivery": false,
+      "rating": 0.0,
+      "is_limited": false,
+      "sold": 0,
+      "images": [
+        69
+      ],
+      "tags": [
+        5,
+        9
+      ],
+      "reviews": [],
+      "specifications": [
+        11
+      ]
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 1,
+    "fields": {
+      "name": "камера",
+      "value": "16"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 2,
+    "fields": {
+      "name": "Rating",
+      "value": "4.9"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 3,
+    "fields": {
+      "name": "Rating",
+      "value": "4.9"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 4,
+    "fields": {
+      "name": "Rating",
+      "value": "4.9"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 5,
+    "fields": {
+      "name": "Rating",
+      "value": "3.5"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 6,
+    "fields": {
+      "name": "Rating",
+      "value": "3.0"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 7,
+    "fields": {
+      "name": "Rating",
+      "value": "4.0"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 8,
+    "fields": {
+      "name": "Rating",
+      "value": "4.8"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 9,
+    "fields": {
+      "name": "Rating",
+      "value": "4.0"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 10,
+    "fields": {
+      "name": "Гарантия",
+      "value": "1 год"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 11,
+    "fields": {
+      "name": "Страна",
+      "value": "США"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 12,
+    "fields": {
+      "name": "Тип экрана",
+      "value": "Super Retina XDR Pro Motion"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 13,
+    "fields": {
+      "name": "Рейтинг",
+      "value": "5"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 14,
+    "fields": {
+      "name": "Операционная система",
+      "value": "iOS"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 15,
+    "fields": {
+      "name": "Тип экрана",
+      "value": "Super Retina XDR"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 16,
+    "fields": {
+      "name": "Объем духовки",
+      "value": "70 л"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 17,
+    "fields": {
+      "name": "Страна",
+      "value": "Чехия"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 18,
+    "fields": {
+      "name": "Максимальная температура",
+      "value": "275 *С"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 19,
+    "fields": {
+      "name": "Количество конфорок",
+      "value": "4"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 20,
+    "fields": {
+      "name": "Решетка",
+      "value": "чугунная"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 21,
+    "fields": {
+      "name": "Встроенная память (ROM)",
+      "value": "512 ГБ"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 22,
+    "fields": {
+      "name": "Операционная система",
+      "value": "Android 13"
+    }
+  },
+  {
+    "model": "api_app.specification",
+    "pk": 23,
+    "fields": {
+      "name": "Объем холодильной камеры",
+      "value": "230 л"
+    }
+  },
+  {
+    "model": "api_app.orderproduct",
+    "pk": 122,
+    "fields": {
+      "product": 1,
+      "count": 1,
+      "price": "123.00"
+    }
+  },
+  {
+    "model": "api_app.orderproduct",
+    "pk": 123,
+    "fields": {
+      "product": 1,
+      "count": 1,
+      "price": "999.00"
+    }
+  },
+  {
+    "model": "api_app.orderproduct",
+    "pk": 124,
+    "fields": {
+      "product": 2,
+      "count": 2,
+      "price": "790.00"
+    }
+  },
+  {
+    "model": "api_app.orderproduct",
+    "pk": 125,
+    "fields": {
+      "product": 1,
+      "count": 1,
+      "price": "999.00"
+    }
+  },
+  {
+    "model": "api_app.orderproduct",
+    "pk": 126,
+    "fields": {
+      "product": 14,
+      "count": 3,
+      "price": "1200.00"
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 1,
+    "fields": {
+      "createdAt": "2023-07-08T13:36:47.119Z",
+      "fullName": "Горячев Сергей Михайлович",
+      "email": "sergor2366@gmail.com",
+      "phone": "89500664262",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "paid",
+      "city": "Санкт-Петербург",
+      "address": "пр. Луначарского 56, к1. кв 296",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 2,
+    "fields": {
+      "createdAt": "2023-07-09T13:42:30.814Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 3,
+    "fields": {
+      "createdAt": "2023-07-09T13:57:42.835Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "paid",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 4,
+    "fields": {
+      "createdAt": "2023-07-09T19:35:02.254Z",
+      "fullName": "Горячев Лев Михайлович",
+      "email": "fortachka2222@gmail.com",
+      "phone": "89531709993",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "paid",
+      "city": "Санкт-Петербург",
+      "address": "Луначарского пр. 56 к. 1 кв. 296",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 5,
+    "fields": {
+      "createdAt": "2023-07-13T10:15:57.357Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 6,
+    "fields": {
+      "createdAt": "2023-07-17T13:08:10.557Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 7,
+    "fields": {
+      "createdAt": "2023-07-17T13:26:37.457Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 8,
+    "fields": {
+      "createdAt": "2023-07-17T13:27:02.944Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 9,
+    "fields": {
+      "createdAt": "2023-07-20T15:43:19.804Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 10,
+    "fields": {
+      "createdAt": "2023-07-20T15:53:16.068Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 11,
+    "fields": {
+      "createdAt": "2023-07-20T15:53:55.770Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 12,
+    "fields": {
+      "createdAt": "2023-07-20T15:54:12.663Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 13,
+    "fields": {
+      "createdAt": "2023-07-20T15:59:57.447Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 14,
+    "fields": {
+      "createdAt": "2023-07-20T16:02:44.632Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 15,
+    "fields": {
+      "createdAt": "2023-07-20T16:08:35.732Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 16,
+    "fields": {
+      "createdAt": "2023-07-21T18:28:30.934Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 17,
+    "fields": {
+      "createdAt": "2023-07-21T18:29:19.727Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "paid",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 18,
+    "fields": {
+      "createdAt": "2023-07-21T18:30:39.163Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 19,
+    "fields": {
+      "createdAt": "2023-07-21T18:31:17.720Z",
+      "fullName": "sergei",
+      "email": "erty@ert.yu",
+      "phone": "895552332",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 20,
+    "fields": {
+      "createdAt": "2023-07-21T18:40:34.399Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "тест",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 21,
+    "fields": {
+      "createdAt": "2023-07-21T18:40:57.067Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 22,
+    "fields": {
+      "createdAt": "2023-07-21T18:46:12.873Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "free",
+      "paymentType": "online",
+      "totalCost": "1221.00",
+      "status": "accepted",
+      "city": "Moscow",
+      "address": "red square 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 23,
+    "fields": {
+      "createdAt": "2023-07-21T18:46:28.276Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 24,
+    "fields": {
+      "createdAt": "2023-07-21T18:46:45.078Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": "Пенза",
+      "address": "ул. Пензенская 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 25,
+    "fields": {
+      "createdAt": "2023-07-21T18:48:57.556Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": "вена",
+      "address": "штрассе 1\n",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 26,
+    "fields": {
+      "createdAt": "2023-07-21T18:55:44.009Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 27,
+    "fields": {
+      "createdAt": "2023-07-21T19:15:49.273Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": "рязань",
+      "address": "ряз 1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 28,
+    "fields": {
+      "createdAt": "2023-07-21T19:17:42.087Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "1200.00",
+      "status": "created",
+      "city": "зима",
+      "address": "зимзим",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 29,
+    "fields": {
+      "createdAt": "2023-07-21T20:32:24.772Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "1200.00",
+      "status": "created",
+      "city": "21",
+      "address": "21",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 30,
+    "fields": {
+      "createdAt": "2023-07-21T20:36:53.648Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 31,
+    "fields": {
+      "createdAt": "2023-07-21T20:37:21.438Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "950.00",
+      "status": "created",
+      "city": "ew",
+      "address": "we",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 32,
+    "fields": {
+      "createdAt": "2023-07-21T20:38:52.148Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "1200.00",
+      "status": "paid",
+      "city": "1",
+      "address": "1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 33,
+    "fields": {
+      "createdAt": "2023-07-23T10:21:05.683Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 34,
+    "fields": {
+      "createdAt": "2023-07-23T10:21:20.937Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "3.00",
+      "status": "created",
+      "city": "в",
+      "address": "в",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 35,
+    "fields": {
+      "createdAt": "2023-07-23T10:39:44.568Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "3.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 36,
+    "fields": {
+      "createdAt": "2023-07-23T10:42:52.294Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "3.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 37,
+    "fields": {
+      "createdAt": "2023-07-23T10:46:09.557Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "700.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 38,
+    "fields": {
+      "createdAt": "2023-07-23T10:46:53.492Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "950.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 39,
+    "fields": {
+      "createdAt": "2023-07-23T11:14:00.492Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "900.00",
+      "status": "created",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 40,
+    "fields": {
+      "createdAt": "2023-07-23T11:19:09.971Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "900.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 41,
+    "fields": {
+      "createdAt": "2023-07-23T11:51:55.995Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "900.00",
+      "status": "created",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 42,
+    "fields": {
+      "createdAt": "2023-07-23T12:13:32.107Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 43,
+    "fields": {
+      "createdAt": "2023-07-23T12:13:45.085Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "950.00",
+      "status": "created",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 44,
+    "fields": {
+      "createdAt": "2023-07-23T12:30:10.925Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 45,
+    "fields": {
+      "createdAt": "2023-07-23T12:30:36.074Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 46,
+    "fields": {
+      "createdAt": "2023-07-23T12:31:05.165Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "900.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 47,
+    "fields": {
+      "createdAt": "2023-07-23T12:32:30.751Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "700.00",
+      "status": "created",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 48,
+    "fields": {
+      "createdAt": "2023-07-23T12:39:21.396Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "700.00",
+      "status": "created",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 49,
+    "fields": {
+      "createdAt": "2023-07-23T12:41:13.683Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "3.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 50,
+    "fields": {
+      "createdAt": "2023-07-23T12:44:42.521Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 51,
+    "fields": {
+      "createdAt": "2023-07-23T12:46:16.987Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 52,
+    "fields": {
+      "createdAt": "2023-07-23T12:51:46.298Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 53,
+    "fields": {
+      "createdAt": "2023-07-23T12:57:24.630Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 54,
+    "fields": {
+      "createdAt": "2023-07-23T12:57:40.151Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 55,
+    "fields": {
+      "createdAt": "2023-07-23T12:59:26.570Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 56,
+    "fields": {
+      "createdAt": "2023-07-23T13:02:06.220Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 57,
+    "fields": {
+      "createdAt": "2023-07-23T13:10:49.897Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "1600.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 58,
+    "fields": {
+      "createdAt": "2023-07-23T13:15:52.522Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "700.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 59,
+    "fields": {
+      "createdAt": "2023-07-23T13:27:37.945Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "4956.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 60,
+    "fields": {
+      "createdAt": "2023-07-23T13:28:34.311Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 61,
+    "fields": {
+      "createdAt": "2023-07-23T13:28:38.996Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "700.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 62,
+    "fields": {
+      "createdAt": "2023-07-23T14:12:19.021Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "700.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 63,
+    "fields": {
+      "createdAt": "2023-07-23T14:12:46.520Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "900.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 64,
+    "fields": {
+      "createdAt": "2023-07-23T14:13:20.497Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "700.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 65,
+    "fields": {
+      "createdAt": "2023-07-23T14:30:25.066Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "20400.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 66,
+    "fields": {
+      "createdAt": "2023-07-23T14:33:48.361Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "1.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 67,
+    "fields": {
+      "createdAt": "2023-07-23T17:49:56.674Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 68,
+    "fields": {
+      "createdAt": "2023-07-23T17:50:33.866Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 69,
+    "fields": {
+      "createdAt": "2023-07-23T17:55:57.862Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 70,
+    "fields": {
+      "createdAt": "2023-07-23T17:56:19.664Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "3.00",
+      "status": "created",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 71,
+    "fields": {
+      "createdAt": "2023-07-23T18:05:51.882Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 72,
+    "fields": {
+      "createdAt": "2023-07-23T18:21:55.671Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 73,
+    "fields": {
+      "createdAt": "2023-07-23T18:22:26.878Z",
+      "fullName": "тест",
+      "email": "test@test.ru",
+      "phone": "12345",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 74,
+    "fields": {
+      "createdAt": "2023-07-24T10:36:14.021Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 75,
+    "fields": {
+      "createdAt": "2023-07-24T14:23:21.074Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "9.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 76,
+    "fields": {
+      "createdAt": "2023-08-13T08:30:59.454Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "4200.00",
+      "status": "paid",
+      "city": "1",
+      "address": "1",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 77,
+    "fields": {
+      "createdAt": "2023-08-16T10:00:30.409Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "express",
+      "paymentType": "online",
+      "totalCost": "163100.00",
+      "status": "paid",
+      "city": "3",
+      "address": "3",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 78,
+    "fields": {
+      "createdAt": "2023-08-16T13:18:31.104Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "950.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 79,
+    "fields": {
+      "createdAt": "2023-08-16T13:54:38.122Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "5.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 80,
+    "fields": {
+      "createdAt": "2023-08-16T14:07:38.501Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "950.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 81,
+    "fields": {
+      "createdAt": "2023-08-17T13:24:02.264Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 82,
+    "fields": {
+      "createdAt": "2023-08-17T13:24:45.452Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 83,
+    "fields": {
+      "createdAt": "2023-08-17T13:25:33.958Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 84,
+    "fields": {
+      "createdAt": "2023-08-17T13:26:02.030Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 85,
+    "fields": {
+      "createdAt": "2023-08-17T13:26:51.235Z",
+      "fullName": "",
+      "email": "",
+      "phone": "",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 86,
+    "fields": {
+      "createdAt": "2023-08-17T13:28:11.299Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 87,
+    "fields": {
+      "createdAt": "2023-08-17T13:28:37.595Z",
+      "fullName": "qwe",
+      "email": "1qw",
+      "phone": "123",
+      "deliveryType": "ordinary",
+      "paymentType": "someone",
+      "totalCost": "2022.00",
+      "status": "paid",
+      "city": "12",
+      "address": "21",
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 88,
+    "fields": {
+      "createdAt": "2023-08-17T13:40:56.815Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 89,
+    "fields": {
+      "createdAt": "2023-08-17T13:43:12.069Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "7002.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 90,
+    "fields": {
+      "createdAt": "2023-08-17T13:49:48.164Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "1066.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 91,
+    "fields": {
+      "createdAt": "2023-08-17T13:52:04.404Z",
+      "fullName": null,
+      "email": "1",
+      "phone": null,
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "950.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 92,
+    "fields": {
+      "createdAt": "2023-08-17T13:56:50.897Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "122.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 93,
+    "fields": {
+      "createdAt": "2023-08-17T14:18:33.379Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "123.00",
+      "status": "paid",
+      "city": null,
+      "address": null,
+      "products": [
+        122
+      ]
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 94,
+    "fields": {
+      "createdAt": "2023-08-17T18:04:49.220Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 95,
+    "fields": {
+      "createdAt": "2023-08-17T18:04:51.587Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 96,
+    "fields": {
+      "createdAt": "2023-08-17T18:05:09.435Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 97,
+    "fields": {
+      "createdAt": "2023-08-17T18:05:10.497Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 98,
+    "fields": {
+      "createdAt": "2023-08-17T18:05:45.648Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 99,
+    "fields": {
+      "createdAt": "2023-08-17T18:05:58.413Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": []
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 100,
+    "fields": {
+      "createdAt": "2023-08-17T18:06:50.001Z",
+      "fullName": "test",
+      "email": "1",
+      "phone": "1",
+      "deliveryType": "ordinary",
+      "paymentType": "online",
+      "totalCost": "999.00",
+      "status": "Paid",
+      "city": "1",
+      "address": "1",
+      "products": [
+        123
+      ]
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 101,
+    "fields": {
+      "createdAt": "2023-08-19T15:44:20.482Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": [
+        124
+      ]
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 102,
+    "fields": {
+      "createdAt": "2023-08-25T12:23:38.486Z",
+      "fullName": null,
+      "email": null,
+      "phone": null,
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": [
+        125
+      ]
+    }
+  },
+  {
+    "model": "api_app.order",
+    "pk": 103,
+    "fields": {
+      "createdAt": "2023-08-25T17:02:50.796Z",
+      "fullName": "admin",
+      "email": "sergor2366@gmail.com",
+      "phone": "222",
+      "deliveryType": null,
+      "paymentType": null,
+      "totalCost": null,
+      "status": null,
+      "city": null,
+      "address": null,
+      "products": [
+        126
+      ]
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 292,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 293,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 294,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 299,
+    "fields": {
+      "user": null,
+      "product": 2,
+      "count": 2
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 300,
+    "fields": {
+      "user": null,
+      "product": 2,
+      "count": 2
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 301,
+    "fields": {
+      "user": null,
+      "product": 2,
+      "count": 2
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 302,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 303,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 304,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 305,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 306,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 307,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 2
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 308,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 3
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 309,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 4
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 310,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 4
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 311,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 4
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 312,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 3
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 313,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 2
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 314,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 315,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 316,
+    "fields": {
+      "user": null,
+      "product": 4,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 317,
+    "fields": {
+      "user": null,
+      "product": 1,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 318,
+    "fields": {
+      "user": null,
+      "product": 1,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.basket",
+    "pk": 319,
+    "fields": {
+      "user": null,
+      "product": 1,
+      "count": 1
+    }
+  },
+  {
+    "model": "api_app.tag",
+    "pk": 1,
+    "fields": {
+      "name": "техника"
+    }
+  },
+  {
+    "model": "api_app.tag",
+    "pk": 4,
+    "fields": {
+      "name": "Новое"
+    }
+  },
+  {
+    "model": "api_app.tag",
+    "pk": 5,
+    "fields": {
+      "name": "Apple"
+    }
+  },
+  {
+    "model": "api_app.tag",
+    "pk": 6,
+    "fields": {
+      "name": "Samsung"
+    }
+  },
+  {
+    "model": "api_app.tag",
+    "pk": 8,
+    "fields": {
+      "name": "Смартфон"
+    }
+  },
+  {
+    "model": "api_app.tag",
+    "pk": 9,
+    "fields": {
+      "name": "Чехол"
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "order": 1
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "order": 4
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 13,
+    "fields": {
+      "user": 1,
+      "order": 49
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 22,
+    "fields": {
+      "user": 1,
+      "order": 66
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 23,
+    "fields": {
+      "user": 1,
+      "order": 75
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 24,
+    "fields": {
+      "user": 1,
+      "order": 76
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 25,
+    "fields": {
+      "user": 1,
+      "order": 77
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 26,
+    "fields": {
+      "user": 1,
+      "order": 78
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 27,
+    "fields": {
+      "user": 1,
+      "order": 79
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 28,
+    "fields": {
+      "user": 1,
+      "order": 80
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 29,
+    "fields": {
+      "user": 1,
+      "order": 87
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 30,
+    "fields": {
+      "user": 1,
+      "order": 89
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 31,
+    "fields": {
+      "user": 1,
+      "order": 90
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 32,
+    "fields": {
+      "user": 1,
+      "order": 91
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 33,
+    "fields": {
+      "user": 1,
+      "order": 92
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 34,
+    "fields": {
+      "user": 1,
+      "order": 93
+    }
+  },
+  {
+    "model": "api_app.orderhistory",
+    "pk": 35,
+    "fields": {
+      "user": 1,
+      "order": 100
+    }
+  }
+]

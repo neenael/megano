@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-17 18:19+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || "
+"(n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: api_app/admin.py:10
+msgid "Administrative  panel of Megano"
+msgstr "Административная панель Megano"
+
+#: api_app/admin.py:11
+#| msgid "Welcome to megano panel"
+msgid "Megano panel"
+msgstr "Панель Megano"
+
+#: api_app/admin.py:12
+msgid "Welcome to megano panel"
+msgstr "Добро пожаловать в панель Megano"
+
+#: api_app/admin.py:46 api_app/admin.py:52 api_app/admin.py:140
+msgid "Information"
+msgstr "Информация"
+
+#: api_app/admin.py:47 api_app/admin.py:54
+msgid "Dates"
+msgstr "Даты"
+
+#: api_app/admin.py:48
+msgid "Additional"
+msgstr "Дополнительно"
+
+#: api_app/admin.py:75
+msgid "General"
+msgstr "Основное"
+
+#: api_app/admin.py:76
+msgid "In store"
+msgstr "Магазин"
+
+#: api_app/admin.py:77
+msgid "Details"
+msgstr "Детали"
+
+#: api_app/admin.py:79
+msgid "User experience"
+msgstr "Пользовательский опыт"
+
+#: api_app/admin.py:80 api_app/admin.py:101 api_app/models.py:95
+msgid "Date"
+msgstr "Дата"
+
+#: api_app/admin.py:99 api_app/models.py:91
+msgid "Author"
+msgstr "Автор"
+
+#: api_app/admin.py:100 api_app/models.py:98
+msgid "Review"
+msgstr "Отзыв"
+
+#: api_app/admin.py:139 api_app/admin.py:160 api_app/models.py:154
+#: api_app/models.py:178 auth_app/models.py:9
+msgid "User"
+msgstr "Пользователь"
+
+#: api_app/admin.py:141 api_app/admin.py:161
+msgid "Content"
+msgstr "Содержимое"
+
+#: api_app/apps.py:10
+msgid "API-app"
+msgstr "API-приложение"
+
+#: api_app/models.py:7
+msgid "Path to img"
+msgstr "Путь до изображения"
+
+#: api_app/models.py:8 api_app/models.py:71
+msgid "Description"
+msgstr "Описание"
+
+#: api_app/models.py:11 api_app/models.py:20 api_app/models.py:34
+msgid "Image"
+msgstr "Изображение"
+
+#: api_app/models.py:12 api_app/models.py:74
+msgid "Images"
+msgstr "Изображения"
+
+#: api_app/models.py:19
+msgid "title"
+msgstr "Название"
+
+#: api_app/models.py:23 api_app/models.py:32 api_app/models.py:66
+msgid "Category"
+msgstr "Категория"
+
+#: api_app/models.py:24
+msgid "Categories"
+msgstr "Категории"
+
+#: api_app/models.py:33 api_app/models.py:67
+msgid "Title"
+msgstr "Название"
+
+#: api_app/models.py:37
+msgid "Subcategory"
+msgstr "Субкатегория"
+
+#: api_app/models.py:38
+msgid "Subcategories"
+msgstr "Субкатегории"
+
+#: api_app/models.py:46 api_app/models.py:83 api_app/models.py:118
+#: api_app/models.py:155
+msgid "Product"
+msgstr "Продукт"
+
+#: api_app/models.py:47
+msgid "Old price"
+msgstr "Старая цена"
+
+#: api_app/models.py:48
+msgid "Sale price"
+msgstr "Цена по скидке"
+
+#: api_app/models.py:49
+msgid "Sale starts"
+msgstr "Начало скидки"
+
+#: api_app/models.py:50
+msgid "Sale ends"
+msgstr "Конец скидки"
+
+#: api_app/models.py:51
+msgid "Is applied"
+msgstr "Применена"
+
+#: api_app/models.py:52
+msgid "Is active"
+msgstr "Активна"
+
+#: api_app/models.py:55
+msgid "Sale"
+msgstr "Скидка"
+
+#: api_app/models.py:56
+msgid "Sales"
+msgstr "Скидки"
+
+#: api_app/models.py:59
+msgid "disabled"
+msgstr "Неактивно"
+
+#: api_app/models.py:61
+msgid "active"
+msgstr "Активно"
+
+#: api_app/models.py:62
+#, python-brace-format
+msgid "sale on {title} ({msg})"
+msgstr "скидка на {title} ({msg})"
+
+#: api_app/models.py:68 api_app/models.py:120
+msgid "Price"
+msgstr "Цена"
+
+#: api_app/models.py:69 api_app/models.py:119 api_app/models.py:156
+msgid "Count"
+msgstr "Количество"
+
+#: api_app/models.py:70
+msgid "Change date"
+msgstr "Дата изменения"
+
+#: api_app/models.py:72
+msgid "Full description"
+msgstr "Полное описание"
+
+#: api_app/models.py:73
+msgid "Free delivery"
+msgstr "Бесплатная доставка"
+
+#: api_app/models.py:75 api_app/models.py:171
+msgid "Tags"
+msgstr "Теги"
+
+#: api_app/models.py:76 api_app/models.py:99
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: api_app/models.py:77 api_app/models.py:111
+msgid "Specifications"
+msgstr "Спецификации"
+
+#: api_app/models.py:78
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: api_app/models.py:79
+msgid "Is limited"
+msgstr "Лимитированная коллекция"
+
+#: api_app/models.py:80
+msgid "Sold"
+msgstr "Продано"
+
+#: api_app/models.py:84 api_app/models.py:142
+msgid "Products"
+msgstr "Продукты"
+
+#: api_app/models.py:92 api_app/models.py:133 auth_app/models.py:11
+msgid "Email"
+msgstr "Email"
+
+#: api_app/models.py:93
+msgid "Review text"
+msgstr "Текст отзыва"
+
+#: api_app/models.py:94
+msgid "Rate"
+msgstr "Оценка"
+
+#: api_app/models.py:106 api_app/models.py:167
+msgid "Name"
+msgstr "Название"
+
+#: api_app/models.py:107
+msgid "Value"
+msgstr "Значение"
+
+#: api_app/models.py:110
+msgid "Specification"
+msgstr "Спецификация"
+
+#: api_app/models.py:123
+msgid "Order <-> Product"
+msgstr "Заказ <-> Продукт"
+
+#: api_app/models.py:124
+msgid "Orders <-> Products"
+msgstr "Заказы <-> Продукты"
+
+#: api_app/models.py:131
+msgid "Created at"
+msgstr "Создано"
+
+#: api_app/models.py:132 auth_app/models.py:10
+msgid "Full name"
+msgstr "Полное имя"
+
+#: api_app/models.py:134 auth_app/models.py:12
+msgid "Phone"
+msgstr "Телефон"
+
+#: api_app/models.py:135
+msgid "Delivery type"
+msgstr "Тип доставки"
+
+#: api_app/models.py:136
+msgid "Payment type"
+msgstr "Тип оплаты"
+
+#: api_app/models.py:138
+msgid "Total cost"
+msgstr "Конечная стоимость"
+
+#: api_app/models.py:139
+msgid "Status"
+msgstr "Статус"
+
+#: api_app/models.py:140
+msgid "City"
+msgstr "Город"
+
+#: api_app/models.py:141
+msgid "Address"
+msgstr "Адрес"
+
+#: api_app/models.py:145 api_app/models.py:179
+msgid "Order"
+msgstr "Заказ"
+
+#: api_app/models.py:146
+msgid "Orders"
+msgstr "Заказы"
+
+#: api_app/models.py:159
+msgid "Basket"
+msgstr "Корзина"
+
+#: api_app/models.py:160
+msgid "Baskets"
+msgstr "Корзины"
+
+#: api_app/models.py:170
+msgid "Tag"
+msgstr "Тег"
+
+#: api_app/models.py:182
+msgid "Order's history"
+msgstr "История заказов"
+
+#: api_app/models.py:183
+msgid "Order's histories"
+msgstr "Истории заказов"
+
+#: auth_app/admin.py:10
+msgid "Personal data"
+msgstr "Персональные данные"
+
+#: auth_app/apps.py:8
+msgid "Auth app"
+msgstr "Пользователи"
+
+#: auth_app/models.py:13
+msgid "Avatar"
+msgstr "Аватар"
+
+#: auth_app/models.py:16
+msgid "Profile"
+msgstr "Профиль"
+
+#: auth_app/models.py:17
+msgid "Profiles"
+msgstr "Профили"

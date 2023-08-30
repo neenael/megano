@@ -1,0 +1,36 @@
+[
+    {
+        "model": "api_app.product",
+        "pk": 1,
+        "fields": {
+            "category": 1,
+            "title": "Product 1",
+            "price": "10.00",
+            "count": 5,
+            "date" : "2015-03-01",
+            "description": "Description for Product 1",
+            "fullDescription": "Full description for Product 1",
+            "freeDelivery": true,
+            "rating": 4.5,
+            "is_limited": false,
+            "sold": 10
+        }
+    },
+    {
+        "model": "api_app.product",
+        "pk": 2,
+        "fields": {
+            "category": 2,
+            "title": "Product 2",
+            "price": "20.00",
+            "count": 1,
+            "date" : "2015-03-01",
+            "description": "Description for Product 2",
+            "fullDescription": "Full description for Product 2",
+            "freeDelivery": true,
+            "rating": 3.0,
+            "is_limited": false,
+            "sold": 5
+        }
+    }
+]
