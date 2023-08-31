@@ -81,7 +81,7 @@ var mix = {
             :  null
 
         if(location.pathname.startsWith('/catalog/')) {
-            const category = location.pathname.replace('/catalog/', '')
+            const category = location.pathname.replace('/catalog/', '').replace('/', '')
             this.category = category.length ? Number(category) : null
         }
 

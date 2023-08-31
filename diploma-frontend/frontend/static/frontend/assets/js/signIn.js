@@ -7,6 +7,9 @@ var mix = {
 				.then(({ data, status }) => {
 					location.assign(`/`)
 				})
+				.catch(() => {
+					alert('Ошибка авторизации!')
+				})
 		}
 	},
 	mounted() {

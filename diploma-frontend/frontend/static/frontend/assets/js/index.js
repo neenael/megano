@@ -1,7 +1,7 @@
 var mix = {
 	methods: {
 		getBanners() {
-			this.getData("/api/banners")
+			this.getData("/api/banners/")
 				.then(data => {
 					this.banners = data
 				}).catch(() => {

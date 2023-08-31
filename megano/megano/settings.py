@@ -78,23 +78,23 @@ TEMPLATES = [
 WSGI_APPLICATION = 'megano.wsgi.application'
 
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
-
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'megano_db',
-        'USER': 'megano_admin',
-        'PASSWORD': '123',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'megano_db',
+#         'USER': 'megano_admin',
+#         'PASSWORD': '123',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
 
 
 SESSION_ENGINE = 'django.contrib.sessions.backends.db'
